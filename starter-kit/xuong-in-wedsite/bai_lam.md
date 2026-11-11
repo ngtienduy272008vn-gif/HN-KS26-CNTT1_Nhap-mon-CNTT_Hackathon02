@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:** Nguyễn Tiến Duy
 - **Lớp:** Cntt1
-- **Link repository:**
+- **Link repository:**https://github.com/ngtienduy272008vn-gif/HN-KS26-CNTT1_Nhap-mon-CNTT_Hackathon02
 - **Hệ điều hành (Windows/macOS):** MacOS
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
